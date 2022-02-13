@@ -79,13 +79,13 @@ section.about-me-and-goals-section{
     background: var(--primary-color);
     
     .container{
+        padding: 0.5em;
         .subhead{
             font-weight: bold;
             font-size: 1.5em;
         }
         .paragraph{
             font-size: 1.2em;
-            padding : 0.5em;
         }
     }
 
